@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/frontend-whatapp-clone/static/css/main.31d6cfe0.css",
+    "main.js": "/frontend-whatapp-clone/static/js/main.a5c356e0.js",
+    "index.html": "/frontend-whatapp-clone/index.html",
+    "main.a5c356e0.js.map": "/frontend-whatapp-clone/static/js/main.a5c356e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a5c356e0.js"
+  ]
+}
